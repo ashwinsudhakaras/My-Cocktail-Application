@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Cocktail Application</string>
+    <string name="search_results">Search Results</string>
+    <string name="search_for_a_cocktails">Search for a Cocktails....</string>
+    <string name="dialog_title_error_loading_data">Oops! Something went wrong...!</string>
+    <string name="dialog_button_retry">Retry</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="product_name">product name</string>
+    <string name="margarita">Margarita</string>
+    <string name="instructions">Instructions</string>
+    <string name="description">Description</string>
+    <string name="glass">Glass</string>
+    <string name="serve_cocktail_glass">Serve: Cocktail glass</string>
+</resources>
